@@ -379,7 +379,7 @@ section#request_demo .form-group input.form-control {
 }
 
 section#request_demo .form-group textarea.form-control {
-    height: 255px;
+    height: 185px;
 }
 
 section#request_demo .form-control:focus {

@@ -33,4 +33,4 @@ $('.navbar-collapse ul li a').click(function() {
 // otherwise bootstrap will still highlight the link
 $("a").mouseup(function(){
     $(this).blur();
-})
+});
